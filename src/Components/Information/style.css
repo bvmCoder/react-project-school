@@ -1,0 +1,32 @@
+.information-conatiner {
+    margin: 10px auto 20px;
+    border: 1px solid #ABABAB;
+}
+
+.information-conatiner > div {
+    margin: 10px;
+}
+
+.donors-number {
+    font-weight: 600;
+}
+
+.days-left {
+    font-style: italic;
+    color: orangered;
+    font-weight: 600;
+}
+
+.why-amount {
+    font-style: italic;
+    font-weight: 500;
+    font-size: 14px;
+    color: #4477FF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.give-now {
+    margin-left: 30px;
+    background-color: #3CB371;
+    color: #FFF;
+}
